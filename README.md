@@ -1,6 +1,6 @@
 <h1 align="center">Invalid password - Shake animation</h1>
 
-![image](/img/screen_home.png)
+![image](/img/show1.png)
 
 <h3 align="center">✔️ Finished</h3>
 
@@ -14,7 +14,6 @@
 
 
 ## Showcase
-![image](/img/show1.png)
 ![image](/img/show2.png)
 ![image](/img/vid_show.gif)
 
