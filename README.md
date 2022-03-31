@@ -14,7 +14,6 @@
 
 
 ## Showcase
-<p align="left">Dark mode<br/></p>
 ![image](/img/show2.png)
 ![image](/img/vid_show.gif)
 
